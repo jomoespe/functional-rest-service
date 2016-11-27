@@ -1,6 +1,8 @@
 Un API REST Java con un *smell* functional con Spark-Java
 =========================================================
 
+[![Build Status](https://travis-ci.org/jomoespe/functional-rest-service.svg?branch=master)](https://travis-ci.org/jomoespe/functional-rest-service)
+
 En el presente artículo os muestro un ejemplo de como implementar un servicio REST con un estilo más funcional, apoyandonos en
 la librería [SparkJava](http://sparkjava.com/).
 
